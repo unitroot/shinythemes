@@ -1,3 +1,22 @@
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/Lato_400.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts/Lato_700.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 400;
+  src: url(../fonts/Lato_400italic.ttf) format('truetype');
+}
+
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 html{
